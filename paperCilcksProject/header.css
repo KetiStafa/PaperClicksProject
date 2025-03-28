@@ -1,0 +1,20 @@
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.logo img{
+    width: 150px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: 20px;
+
+}
+
+.navContent {
+    margin-right: 50px;
+    color: rgb(91, 91, 247);
+}
